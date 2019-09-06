@@ -1,4 +1,4 @@
-package TestExample;
+package Test;
 
 
 import java.io.BufferedReader;
